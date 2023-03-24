@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1679583818 source:c:\users\yoga 640\desktop\embedded systems\data_structure_project\student_database\main.c
+	<stdio.h>
+	"Student.c"
+
+1679584235 c:\users\yoga 640\desktop\embedded systems\data_structure_project\student_database\student.c
+	"Queue.c"
+
+1679580454 c:\users\yoga 640\desktop\embedded systems\data_structure_project\student_database\student.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1679578005 c:\users\yoga 640\desktop\embedded systems\data_structure_project\student_database\queue.c
+	"Student.h"
+
+1679583818 source:c:\users\yoga 640\desktop\my_github\ieee-mancsc-embedded-systems-committe\student_database\main.c
+	<stdio.h>
+	"Student.c"
+
+1679689582 c:\users\yoga 640\desktop\my_github\ieee-mancsc-embedded-systems-committe\student_database\student.c
+	"Queue.c"
+
+1679578005 c:\users\yoga 640\desktop\my_github\ieee-mancsc-embedded-systems-committe\student_database\queue.c
+	"Student.h"
+
+1679580454 c:\users\yoga 640\desktop\my_github\ieee-mancsc-embedded-systems-committe\student_database\student.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
